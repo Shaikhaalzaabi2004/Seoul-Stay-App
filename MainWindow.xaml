@@ -1,0 +1,53 @@
+﻿<Window x:Class="SeoulStay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeoulStay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel Name="parent">
+        <StackPanel Margin="20, 20, 20, 20" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Image Source="./logo.png" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 20, 0, 0" HorizontalAlignment="Center">
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" >
+                    <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                            <Label Content="Employee:" Width="100"></Label>
+                            <TextBox Name="employeeInp" Width="150"></TextBox>
+                        </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                        <Label Content="User:" Width="100"></Label>
+                        <TextBox Name="userInp" Width="150"></TextBox>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                        <Label Content="Password:" Width="100"></Label>
+                        <PasswordBox Name="passInp" Width="150"></PasswordBox>
+                        <TextBox Name="visiblePass" Width="150" Visibility="Collapsed"></TextBox>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" Margin="20, 0, 0, 0">
+                    <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                        <CheckBox Name="keepMeSignedInCb" Content="Keep me signed in"></CheckBox>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                        <CheckBox Name="showPass" Content="Show Password" Click="showPass_Click"></CheckBox>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 20, 0, 0" HorizontalAlignment="Center">
+                <Button Name="loginBtn" Content="Login" Click="loginBtn_Click" Width="80"></Button>
+                <Button Name="exitBtn" Content="Exit" Click="exitBtn_Click" Width="80" Margin="20, 0, 0, 0"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 20, 0, 0" HorizontalAlignment="Center">
+                <Label Content="Don't have an account?"></Label>
+                <TextBlock VerticalAlignment="Center">
+                    <Hyperlink Name="createAccLink" Click="createAccLink_Click">
+                        <TextBlock Text="Create one"/>
+                    </Hyperlink>
+                </TextBlock>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,47 @@
+﻿<Window x:Class="SeoulStay.createAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeoulStay"
+        mc:Ignorable="d"
+        Title="createAccount" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel Name="parent" VerticalAlignment="Center">
+        <StackPanel Margin="20, 20, 20, 20" HorizontalAlignment="Center" >
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Username:" Width="100"></Label>
+                <TextBox Name="usernameInp" Width="150"></TextBox>
+                <RadioButton Name="maleRadio" Content="Male" Width="80" Margin="20, 0, 0, 0"></RadioButton>
+                <RadioButton Name="femalwRadio" Content="Female" Width="80" Margin="20, 0, 0, 0"></RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                <Label Content="Full Name:" Width="100"></Label>
+                <TextBox Name="fullName" Width="150"></TextBox>
+                <Label Content="Number of family members:" Width="170" Margin="20, 0, 0, 0"></Label>
+                <TextBox Name="numOfFamily" Width="80"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                <Label Content="Birthday:" Width="100"></Label>
+                <DatePicker Name="birthday" Width="150"></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10">
+                <Label Content="Password:" Width="100"></Label>
+                <PasswordBox Name="pass1" Width="150"></PasswordBox>
+                <Label Content="Retype Password:" Width="110" Margin="20, 0, 0, 0"></Label>
+                <PasswordBox Name="pass2" Width="150"></PasswordBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10" HorizontalAlignment="Center">
+                <CheckBox Name="termsCb" Content="I agree to the terms and conditions" IsEnabled="False"></CheckBox>
+                <TextBlock Margin="20, 0, 0, 0">
+                    <Hyperlink Name="termsLink" Click="termsLink_Click">
+                        <TextBlock Text="View Terms and Conditions"/>
+                    </Hyperlink>
+                </TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 10" HorizontalAlignment="Right">
+                <Button Name="registerBtn" Click="registerBtn_Click" Content="Register and Login" Width="150"></Button>
+                <Button Name="returnBtn" Click="returnBtn_Click" Content="Return Login Form" Width="150" Margin="20, 0, 0, 0"></Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

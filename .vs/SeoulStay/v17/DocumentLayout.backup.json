@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\management.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:management.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\models\\attractionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:models\\attractionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\models\\amenityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:models\\amenityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\createaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:createaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\createaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:createaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\styleapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:styleapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|c:\\users\\shaikha\\desktop\\in house\\actual\\ih04\\seoulstay\\models\\ih04context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6915A9-A739-4A51-9916-AD5948DFE695}|SeoulStay.csproj|solutionrelative:models\\ih04context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttractionView.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\AttractionView.cs",
+              "RelativeDocumentMoniker": "Models\\AttractionView.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\AttractionView.cs",
+              "RelativeToolTip": "Models\\AttractionView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmenityView.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\AmenityView.cs",
+              "RelativeDocumentMoniker": "Models\\AmenityView.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\AmenityView.cs",
+              "RelativeToolTip": "Models\\AmenityView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\addEdit.xaml.cs",
+              "RelativeDocumentMoniker": "addEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\addEdit.xaml.cs",
+              "RelativeToolTip": "addEdit.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAUwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\addEdit.xaml",
+              "RelativeDocumentMoniker": "addEdit.xaml",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\addEdit.xaml",
+              "RelativeToolTip": "addEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:38:46.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Models\\Area.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\Area.cs",
+              "RelativeToolTip": "Models\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Management.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Management.xaml.cs",
+              "RelativeDocumentMoniker": "Management.xaml.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Management.xaml.cs*",
+              "RelativeToolTip": "Management.xaml.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Management.xaml",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Management.xaml",
+              "RelativeDocumentMoniker": "Management.xaml",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Management.xaml",
+              "RelativeToolTip": "Management.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:38:46.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "createAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\createAccount.xaml.cs",
+              "RelativeDocumentMoniker": "createAccount.xaml.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\createAccount.xaml.cs",
+              "RelativeToolTip": "createAccount.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAvwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "createAccount.xaml",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\createAccount.xaml",
+              "RelativeDocumentMoniker": "createAccount.xaml",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\createAccount.xaml",
+              "RelativeToolTip": "createAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:38:46.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StyleApplier.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\StyleApplier.cs",
+              "RelativeDocumentMoniker": "StyleApplier.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\StyleApplier.cs",
+              "RelativeToolTip": "StyleApplier.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAArwEAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ih04Context.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\Ih04Context.cs",
+              "RelativeDocumentMoniker": "Models\\Ih04Context.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\Models\\Ih04Context.cs",
+              "RelativeToolTip": "Models\\Ih04Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:38:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shaikha\\Desktop\\In House\\Actual\\IH04\\SeoulStay\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwGUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:38:46.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
